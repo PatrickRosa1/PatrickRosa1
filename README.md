@@ -23,10 +23,10 @@
 Tenho 28 anos, sou formado no curso Técnico em Telecomunicações pelo IFSul e estudante de Engenharia de Computação na UFPel. Sou iniciante nesse universo de desenvolvimento e programação. Entretanto, venho buscando conhecimento para me aperfeiçoar nessa área que amo tanto.
 
 ###  Tecnologias e Ferramentas que tenho interesse e estou estudando: 
-<code><img width="40px" src="" title = "CSS3"/></code>
-<code><img width="40px" src="" title = "JAVASCRIPT"/></code>
-<code><img width="40px" src="" title = "JAVA"/></code>
-<code><img width="40px" src="" title = "MYSQL"/></code>
-<code><img width="40px" src="" title = "PYTHON"/></code>
+<code><img width="40px" src="https://user-images.githubusercontent.com/91095083/208446559-f2e29653-c012-44f2-9664-194d4e1ad8ef.png" title = "CSS3"/></code>
+<code><img width="40px" src="https://user-images.githubusercontent.com/91095083/208446556-f5f01e1e-f7b0-4028-a116-635cbe8f80c5.png" title = "JAVASCRIPT"/></code>
+<code><img width="60px" src="https://user-images.githubusercontent.com/91095083/208447249-1b0a3176-7ae9-440a-a173-67caedc86d1a.png" title = "JAVA"/></code>
+<code><img width="60px" src="https://user-images.githubusercontent.com/91095083/208446546-62e403db-f6c6-4da9-b01f-82dc78a035e0.png" title = "MYSQL"/></code>
+<code><img width="40px" src="https://user-images.githubusercontent.com/91095083/208446554-00517c5b-f1b0-4674-8f5e-756349e09c3e.png" title = "PYTHON"/></code>
 
 
