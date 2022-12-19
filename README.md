@@ -5,7 +5,7 @@
  
  <h1 align="left">Patrick Rosa</h1>
  
- <a href="">
+ <a href="mailto:patrickrosa637@gmail.com">
     <img width="80px" src="https://user-images.githubusercontent.com/91095083/208329790-8a1cb8bc-98e7-467c-acd9-d31fa4326ba9.png" alt="linkedin" style="vertical-align:top;">
   </a>
 
