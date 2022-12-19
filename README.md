@@ -21,3 +21,12 @@
 ## Oi 
 
 Tenho 28 anos, sou formado no curso Técnico em Telecomunicações pelo IFSul e estudante de Engenharia de Computação na UFPel. Sou iniciante nesse universo de desenvolvimento e programação. Entretanto, venho buscando conhecimento para me aperfeiçoar nessa área que amo tanto.
+
+###  Tecnologias e Ferramentas que tenho interesse e estou estudando: 
+<code><img width="40px" src= title = "CSS3"/></code>
+<code><img width="40px" src= title = "JAVASCRIPT"/></code>
+<code><img width="40px" src= title = "JAVA"/></code>
+<code><img width="40px" src= title = "MYSQL"/></code>
+<code><img width="40px" src= title = "PYTHON"/></code>
+
+
