@@ -18,7 +18,7 @@
 </br>
 </br>
 
-## Oi 
+## Oi &#128075
 
 Tenho 28 anos, sou formado no curso Técnico em Telecomunicações pelo IFSul e estudante de Engenharia de Computação na UFPel. Sou iniciante nesse universo de desenvolvimento e programação. Entretanto, venho buscando conhecimento para me aperfeiçoar nessa área que amo tanto.
 
