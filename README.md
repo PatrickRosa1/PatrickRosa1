@@ -8,7 +8,7 @@
  <a href="mailto:patrickrosa637@gmail.com">
     <img width="80px" src="https://user-images.githubusercontent.com/91095083/208329790-8a1cb8bc-98e7-467c-acd9-d31fa4326ba9.png" alt="email" style="vertical-align:top;">
  </a>
- <a href="https://www.linkedin.com/in/patrick-silva-da-rosa-09b4141a7">
+ <a href="https://www.linkedin.com/in/patrickrosas/">
     <img width="80px" src="https://user-images.githubusercontent.com/91095083/208329250-301cf94f-b3f4-4caf-8d32-1e2de7b8550f.png" alt="linkedin" style="vertical-align:top;">
  </a>
  <a href="https://www.instagram.com/dev.novato/">
