@@ -19,14 +19,14 @@
 </br>
 
 ## Oi pessoal 👋
-Me chamo Patrick ! 
-Tenho 28 anos, sou formado no curso Técnico em Telecomunicações pelo IFSul e estudante de Engenharia de Computação na UFPel. Sou iniciante nesse universo de desenvolvimento e programação. Entretanto, venho buscando conhecimento para me aperfeiçoar nessa área que amo tanto.
+Me chamo Patrick, tenho 29 anos, sou formado no curso Técnico em Telecomunicações pelo IFSul e estudante de Engenharia de Computação na UFPel. Sou iniciante nesse universo de desenvolvimento e programação. Entretanto, venho buscando conhecimento para me aperfeiçoar nessa área que amo tanto.
 
-Bem vindo ao meu perfil GitHub 
+Bem vindo ao meu perfil GitHub! 
 <div>
+ 
 <a href="https://github.com/PatrickRosa1">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickRosa1&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=PatrickRosa1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ###  Tecnologias e Ferramentas que tenho interesse e estou estudando: 
