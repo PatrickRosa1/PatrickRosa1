@@ -22,7 +22,9 @@
 Me chamo Patrick, tenho 29 anos, sou formado no curso Técnico em Telecomunicações pelo IFSul e estudante de Engenharia de Computação na UFPel. Sou iniciante nesse universo de desenvolvimento e programação. Entretanto, venho buscando conhecimento para me aperfeiçoar nessa área que amo tanto.
 
 <div class="tenor-gif-embed" data-postid="15828752" data-share-method="host" data-aspect-ratio="1.78771" data-width="100%">
- <a href="https://tenor.com/view/test-typing-codes-gif-15828752">Test Typing GIF</a>from <a href="https://tenor.com/search/test-gifs">Test GIFs</a></div> 
+ <a href="https://tenor.com/view/test-typing-codes-gif-15828752">Test Typing GIF</a> 
+ from <a href="https://tenor.com/search/test-gifs">Test GIFs</a>
+</div> 
  <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
