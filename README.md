@@ -12,7 +12,7 @@
     <img width="80px" src="https://user-images.githubusercontent.com/91095083/208329250-301cf94f-b3f4-4caf-8d32-1e2de7b8550f.png" alt="linkedin" style="vertical-align:top;">
  </a>
  <a href="https://www.instagram.com/dev.novato/" target="_blank">
-    <img align="rigth" width="80px" src="https://user-images.githubusercontent.com/91095083/208329251-b33e5c46-8925-4d80-991f-6101ec5a9a75.png" alt="instagram" style="vertical-align:top;">
+    <img align="rigth" width="80px" src="https://user-images.githubusercontent.com/91095083/208329251-b33e5c46-8925-4d80-991f-6101ec5a9a75.png" alt="instagram" style="vertical-align:top; padding:23px;">
   </a>
 </div>
 </br>
@@ -21,10 +21,11 @@
 ## Oi pessoal 👋
 Me chamo Patrick, tenho 29 anos, sou formado no curso Técnico em Telecomunicações pelo IFSul e estudante de Engenharia de Computação na UFPel. Sou iniciante nesse universo de desenvolvimento e programação. Entretanto, venho buscando conhecimento para me aperfeiçoar nessa área que amo tanto.
 
+<div align="center">
+<img src="https://private-user-images.githubusercontent.com/91095083/298147000-b1fde849-1a4b-41a9-8c9a-a6803dbe986f.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDU2ODU4MjEsIm5iZiI6MTcwNTY4NTUyMSwicGF0aCI6Ii85MTA5NTA4My8yOTgxNDcwMDAtYjFmZGU4NDktMWE0Yi00MWE5LThjOWEtYTY4MDNkYmU5ODZmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTE5VDE3MzIwMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNiMTdkYjQ5ZTI0Y2NjYjI3OWE4MmNjMmUyNDEzYTQwMGEwMGEzZmM0YzA2ZWZmMjU2NWNlMDcyM2I3ZjUyZjUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.r_z0KQJc6u9kvCaOvaN9uPFdhY-_5blK9ofCoy8OA_g"/>
+</div>
 
-
-
-<h1><strong>Bem vindo ao meu perfil GitHub!</strong></h1> 
+<h2><strong>Bem vindo ao meu perfil GitHub!</strong></h2> 
 <div>
  
 <a href="https://github.com/PatrickRosa1">
@@ -38,6 +39,15 @@ Me chamo Patrick, tenho 29 anos, sou formado no curso Técnico em Telecomunicaç
 <code><img width="60px" src="https://user-images.githubusercontent.com/91095083/208446546-62e403db-f6c6-4da9-b01f-82dc78a035e0.png" title = "MYSQL"/></code>
 <code><img width="40px" src="https://user-images.githubusercontent.com/91095083/208446554-00517c5b-f1b0-4674-8f5e-756349e09c3e.png" title = "PYTHON"/></code>
 <br>
+<ul>
+ <li> HTML é a linguagem padrão para criação e estruturação de páginas web. Utiliza tags para definir elementos como títulos, parágrafos, imagens, links e outros, permitindo a criação de documentos que podem ser interpretados pelos navegadores. </li>
+ <li> CSS é uma linguagem de estilo que complementa o HTML. Ele controla a apresentação visual dos elementos HTML, possibilitando a definição de cores, fontes, layout e outros estilos. CSS permite separar a estrutura do documento (HTML) de sua aparência visual. </li>
+ <li>JavaScript é uma linguagem de programação de alto nível, geralmente utilizada do lado do cliente em páginas web para tornar as interações do usuário dinâmicas. Ele permite a manipulação de elementos HTML, interação com o usuário, validação de formulários, e a atualização dinâmica do conteúdo sem a necessidade de recarregar a página.</li>
+ <li>MySQL é um sistema de gerenciamento de banco de dados relacional (RDBMS). Ele é amplamente utilizado para armazenar e gerenciar dados em aplicativos web. Suporta a linguagem SQL (Structured Query Language) para consultas e manipulação de dados, oferecendo eficiência e confiabilidade em operações de banco de dados. </li>
+ <li>Python é uma linguagem de programação de alto nível e de propósito geral, conhecida por sua simplicidade e legibilidade. É usada em diversas aplicações, incluindo desenvolvimento web, automação, ciência de dados, inteligência artificial e mais. Python é apreciado por sua sintaxe clara, que facilita o desenvolvimento e a manutenção de código.</li>
+</ul>
+
+
 <h2>Contatos</h2>
 <div>
 <a href="https://www.youtube.com/channel/UCrjpTSBnnrAAbH3Eo8VPAWA" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -45,5 +55,5 @@ Me chamo Patrick, tenho 29 anos, sou formado no curso Técnico em Telecomunicaç
 <a href = "mailto:patrickrosa637@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/patrickrosas/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-![test-typing](https://github.com/PatrickRosa1/PatrickRosa1/assets/91095083/b1fde849-1a4b-41a9-8c9a-a6803dbe986f)
+
 
