@@ -34,10 +34,9 @@ Bem vindo ao meu perfil GitHub!
 <code><img width="40px" src="https://user-images.githubusercontent.com/91095083/208446556-f5f01e1e-f7b0-4028-a116-635cbe8f80c5.png" title = "JAVASCRIPT"/></code>
 <code><img width="60px" src="https://user-images.githubusercontent.com/91095083/208446546-62e403db-f6c6-4da9-b01f-82dc78a035e0.png" title = "MYSQL"/></code>
 <code><img width="40px" src="https://user-images.githubusercontent.com/91095083/208446554-00517c5b-f1b0-4674-8f5e-756349e09c3e.png" title = "PYTHON"/></code>
-
-
+<br>
+<h2>Contatos</h2>
 <div>
- <h2>Contatos</h2>
 <a href="https://www.youtube.com/channel/UCrjpTSBnnrAAbH3Eo8VPAWA" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/dev.novato/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:patrickrosa637@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
