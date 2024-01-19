@@ -45,5 +45,5 @@ Me chamo Patrick, tenho 29 anos, sou formado no curso Técnico em Telecomunicaç
 <a href = "mailto:patrickrosa637@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/patrickrosas/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-
+![test-typing](https://github.com/PatrickRosa1/PatrickRosa1/assets/91095083/b1fde849-1a4b-41a9-8c9a-a6803dbe986f)
 
