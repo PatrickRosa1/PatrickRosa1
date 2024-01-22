@@ -23,8 +23,8 @@
 Me chamo Patrick, tenho 29 anos, sou formado no curso Técnico em Telecomunicações pelo IFSul e estudante de Engenharia de Computação na UFPel. Sou iniciante nesse universo de desenvolvimento e programação. Entretanto, venho buscando conhecimento para me aperfeiçoar nessa área que amo tanto.
 
 
-<div align="center">
-<img src="https://media1.tenor.com/m/QEQqoAyqJbEAAAAC/hi-patrick.gif">
+<div align="center" >
+<img width="450px" height="350px" src="https://media1.tenor.com/m/QEQqoAyqJbEAAAAC/hi-patrick.gif">
 </a>
 </div>
 
