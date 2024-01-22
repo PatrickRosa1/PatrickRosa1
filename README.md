@@ -21,9 +21,9 @@
 ## Oi pessoal 👋
 Me chamo Patrick, tenho 29 anos, sou formado no curso Técnico em Telecomunicações pelo IFSul e estudante de Engenharia de Computação na UFPel. Sou iniciante nesse universo de desenvolvimento e programação. Entretanto, venho buscando conhecimento para me aperfeiçoar nessa área que amo tanto.
 
-<div align="center">
+
 <img src="https://private-user-images.githubusercontent.com/91095083/298147000-b1fde849-1a4b-41a9-8c9a-a6803dbe986f.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDU2ODU4MjEsIm5iZiI6MTcwNTY4NTUyMSwicGF0aCI6Ii85MTA5NTA4My8yOTgxNDcwMDAtYjFmZGU4NDktMWE0Yi00MWE5LThjOWEtYTY4MDNkYmU5ODZmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTE5VDE3MzIwMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNiMTdkYjQ5ZTI0Y2NjYjI3OWE4MmNjMmUyNDEzYTQwMGEwMGEzZmM0YzA2ZWZmMjU2NWNlMDcyM2I3ZjUyZjUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.r_z0KQJc6u9kvCaOvaN9uPFdhY-_5blK9ofCoy8OA_g"/>
-</div>
+
 
 <h2><strong>Bem vindo ao meu perfil GitHub!</strong></h2> 
 <div>
