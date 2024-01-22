@@ -18,17 +18,21 @@
 </br>
 </br>
 
+
 ## Oi pessoal 👋
 Me chamo Patrick, tenho 29 anos, sou formado no curso Técnico em Telecomunicações pelo IFSul e estudante de Engenharia de Computação na UFPel. Sou iniciante nesse universo de desenvolvimento e programação. Entretanto, venho buscando conhecimento para me aperfeiçoar nessa área que amo tanto.
 
-![298147000-b1fde849-1a4b-41a9-8c9a-a6803dbe986f](https://github.com/PatrickRosa1/PatrickRosa1/assets/91095083/88d6dedb-b545-4172-8cdf-f899740ffc65)
 
 
+ ![298147000-b1fde849-1a4b-41a9-8c9a-a6803dbe986f](https://github.com/PatrickRosa1/PatrickRosa1/assets/91095083/88d6dedb-b545-4172-8cdf-f899740ffc65)
 
 
 <h2><strong>Bem vindo ao meu perfil GitHub!</strong></h2> 
 <div>
- 
+
+
+
+
 <a href="https://github.com/PatrickRosa1">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickRosa1&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=PatrickRosa1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
