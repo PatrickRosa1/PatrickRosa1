@@ -24,7 +24,7 @@ Me chamo Patrick, tenho 29 anos, sou formado no curso Técnico em Telecomunicaç
 
 
 <div align="center">
-<img src="https://media1.tenor.com/m/1mwdqr51emcAAAAC/test-typing.gif">
+<img src="https://media1.tenor.com/m/QEQqoAyqJbEAAAAC/hi-patrick.gif">
 </a>
 </div>
 
