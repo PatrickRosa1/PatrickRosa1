@@ -23,8 +23,12 @@
 Me chamo Patrick, tenho 29 anos, sou formado no curso Técnico em Telecomunicações pelo IFSul e estudante de Engenharia de Computação na UFPel. Sou iniciante nesse universo de desenvolvimento e programação. Entretanto, venho buscando conhecimento para me aperfeiçoar nessa área que amo tanto.
 
 
+<div align="center">
+<img src="https://media1.tenor.com/m/1mwdqr51emcAAAAC/test-typing.gif">
+</a>
+</div>
 
- ![298147000-b1fde849-1a4b-41a9-8c9a-a6803dbe986f](https://github.com/PatrickRosa1/PatrickRosa1/assets/91095083/88d6dedb-b545-4172-8cdf-f899740ffc65)
+
 
 
 <h2><strong>Bem vindo ao meu perfil GitHub!</strong></h2> 
