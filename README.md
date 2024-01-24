@@ -65,4 +65,4 @@ Me chamo Patrick, tenho 29 anos, sou formado no curso Técnico em Telecomunicaç
 <a href="https://www.linkedin.com/in/patrickrosas/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-![Snake animation](https://github.com/PatrickRosa1/PatrickRosa1/blob/output/github-contribution-grid-snake.svg)
+
