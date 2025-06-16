@@ -20,7 +20,7 @@
 
 
 ## Oi pessoal 👋
-Me chamo Patrick, tenho 29 anos, sou formado no curso Técnico em Telecomunicações pelo IFSul e Engenheiro de Computação pela UFPel. Atualmente faço mestrado em Ciência da Computação também na UFPel. Sou iniciante nesse universo de desenvolvimento Web. Entretanto, venho buscando conhecimento para me aperfeiçoar nessa área.
+Me chamo Patrick, tenho 30 anos, sou formado no curso Técnico em Telecomunicações pelo IFSul e Engenheiro de Computação pela UFPel. Atualmente faço mestrado em Ciência da Computação também na UFPel. Sou iniciante nesse universo de desenvolvimento Web. Entretanto, venho buscando conhecimento para me aperfeiçoar nessa área.
 
 
 <div align="center" >
