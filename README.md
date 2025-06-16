@@ -36,7 +36,6 @@ Me chamo Patrick, tenho 30 anos, sou formado no curso Técnico em Telecomunicaç
 
 
 
-
 <a href="https://github.com/PatrickRosa1">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickRosa1&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=PatrickRosa1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -49,12 +48,7 @@ Me chamo Patrick, tenho 30 anos, sou formado no curso Técnico em Telecomunicaç
 <code><img width="40px" src="https://user-images.githubusercontent.com/91095083/208446554-00517c5b-f1b0-4674-8f5e-756349e09c3e.png" title = "PYTHON"/></code>
 <br>
 <ul>
- <li> HTML é a linguagem padrão para criação e estruturação de páginas web. Utiliza tags para definir elementos como títulos, parágrafos, imagens, links e outros, permitindo a criação de documentos que podem ser interpretados pelos navegadores. </li>
- <li> CSS é uma linguagem de estilo que complementa o HTML. Ele controla a apresentação visual dos elementos HTML, possibilitando a definição de cores, fontes, layout e outros estilos. CSS permite separar a estrutura do documento (HTML) de sua aparência visual. </li>
- <li>JavaScript é uma linguagem de programação de alto nível, geralmente utilizada do lado do cliente em páginas web para tornar as interações do usuário dinâmicas. Ele permite a manipulação de elementos HTML, interação com o usuário, validação de formulários, e a atualização dinâmica do conteúdo sem a necessidade de recarregar a página.</li>
- <li>MySQL é um sistema de gerenciamento de banco de dados relacional (RDBMS). Ele é amplamente utilizado para armazenar e gerenciar dados em aplicativos web. Suporta a linguagem SQL (Structured Query Language) para consultas e manipulação de dados, oferecendo eficiência e confiabilidade em operações de banco de dados. </li>
- <li>Python é uma linguagem de programação de alto nível e de propósito geral, conhecida por sua simplicidade e legibilidade. É usada em diversas aplicações, incluindo desenvolvimento web, automação, ciência de dados, inteligência artificial e mais. Python é apreciado por sua sintaxe clara, que facilita o desenvolvimento e a manutenção de código.</li>
-</ul>
+
 
 
 <h2>Contatos</h2>
